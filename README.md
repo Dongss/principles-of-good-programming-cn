@@ -115,9 +115,9 @@ http://en.wikipedia.org/wiki/Law_of_Demeter
 
 ### Avoid Premature Optimization
 
-**避免过度优化**
+**避免过早优化**
 
-代码还在正常工作的时候不必考虑优化，除非运行速度不及预期，并且最好在有量化数据对比的前提下进行。“我们应忽略小的影响，大约97%的情况下：过度优化是万恶之源” -- Donald Knuth。
+代码还在正常工作的时候不必考虑优化，除非运行速度不及预期，并且最好在有量化数据对比的前提下进行。“我们应忽略小的影响，大约97%的情况下：过早优化是万恶之源” -- Donald Knuth。
 
 http://en.wikipedia.org/wiki/Program_optimization
 
